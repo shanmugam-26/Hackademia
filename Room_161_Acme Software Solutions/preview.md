@@ -1,0 +1,3 @@
+**Acme Software Solutions Web App Lab Preview**
+
+Welcome to the Acme Software Solutions Web App Lab! In this hands-on exercise, you'll interact with a sample web application that allows users to upload their profile information in XML format. Explore the application's features, test its input handling, and investigate how it processes and displays your uploaded data. Everything is hosted in a cloud environment, so you can start testing immediately without any setup. Begin by navigating to the home page and submitting your XML profile to dive into the lab.

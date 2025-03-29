@@ -1,0 +1,3 @@
+Welcome to the **Global Consulting Group Web Application Lab**! This environment features a Python-based Flask web application hosted in the cloud, ready for you to begin your security assessments immediately—no setup required. Explore various sections such as Home, About Us, Services, Contact, and Reports to identify and analyze potential vulnerabilities. Dive in and test your skills in a realistic web application setting.
+
+Happy testing!

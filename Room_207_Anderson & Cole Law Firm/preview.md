@@ -1,0 +1,3 @@
+**Anderson & Cole Law Firm Web Application Lab**
+
+Welcome to the Anderson & Cole Law Firm web application lab. This environment is hosted in the cloud, allowing you to interact directly without any setup. Explore the firm's website, utilize the search functionality, and assess the application's features to uncover potential security insights. Start testing now and deepen your understanding of web application security!

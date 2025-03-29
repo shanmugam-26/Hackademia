@@ -1,0 +1,3 @@
+**Lab Preview: Global Aid Foundation Web Application**
+
+Welcome to the Global Aid Foundation web application lab. In this interactive environment, you'll explore the newsletter subscription feature of the site. Your task is to engage with the subscription form by entering your name and submitting it. Observe how the application processes and displays your input, and explore the application's behavior through different interactions. No additional setup is required as the lab is hosted in a cloud environment. Dive in and start testing to uncover the underlying mechanics of the application!

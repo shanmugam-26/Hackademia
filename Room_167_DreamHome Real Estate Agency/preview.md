@@ -1,0 +1,3 @@
+**Welcome to the DreamHome Real Estate Agency Lab**
+
+In this hands-on lab, you'll engage with a simulated web application for DreamHome Real Estate Agency, designed to help you identify and understand common web vulnerabilities. Explore the homepage to browse various property listings and navigate to detailed views of each property. Pay close attention to how the application processes and handles user inputs as you test different functionalities. No setup is required—simply access the application in the cloud environment and start your security assessment. Happy testing!

@@ -1,0 +1,12 @@
+2025-03-29 20:08:52,099 - VERBOSE - For variant 'global', will try loading 'C:\ProgramData\pip\pip.ini'
+2025-03-29 20:08:52,100 - VERBOSE - For variant 'user', will try loading 'C:\Users\tomer\pip\pip.ini'
+2025-03-29 20:08:52,100 - VERBOSE - For variant 'user', will try loading 'C:\Users\tomer\AppData\Roaming\pip\pip.ini'
+2025-03-29 20:08:52,100 - VERBOSE - For variant 'site', will try loading 'C:\Users\tomer\AppData\Local\Programs\Python\Python313\pip.ini'
+2025-03-29 20:08:52,393 - DEBUG - Registered VCS backend: bzr
+2025-03-29 20:08:52,394 - DEBUG - Registered VCS backend: git
+2025-03-29 20:08:52,395 - DEBUG - Registered VCS backend: hg
+2025-03-29 20:08:52,395 - DEBUG - Registered VCS backend: svn
+2025-03-29 20:08:52,449 - VERBOSE - For variant 'global', will try loading 'C:\ProgramData\pip\pip.ini'
+2025-03-29 20:08:52,449 - VERBOSE - For variant 'user', will try loading 'C:\Users\tomer\pip\pip.ini'
+2025-03-29 20:08:52,449 - VERBOSE - For variant 'user', will try loading 'C:\Users\tomer\AppData\Roaming\pip\pip.ini'
+2025-03-29 20:08:52,449 - VERBOSE - For variant 'site', will try loading 'C:\Users\tomer\AppData\Local\Programs\Python\Python313\pip.ini'

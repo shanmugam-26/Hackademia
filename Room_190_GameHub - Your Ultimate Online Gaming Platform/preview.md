@@ -1,0 +1,3 @@
+**GameHub Vulnerable Web Application Lab Preview**
+
+Welcome to the GameHub Vulnerable Web Application Lab! In this hands-on environment, you'll explore a Flask-based online gaming platform designed to simulate real-world scenarios. GameHub allows users to search for their favorite games, browse through various game listings, and experience a dynamic web interface styled with Bootstrap. The application is hosted in a cloud environment, eliminating the need for any setup on your part. Begin your testing journey by accessing the provided URL and interacting with the search functionality to uncover and understand potential security challenges. Dive in and enhance your web security skills with this interactive lab!

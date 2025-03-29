@@ -1,0 +1,3 @@
+**Elite Palace Hotel Vulnerability Lab Preview**
+
+Welcome to the **Elite Palace Hotel** vulnerability lab—a simulated online platform showcasing the hotel's luxurious offerings, including detailed descriptions of rooms, amenities, and a search feature to explore services. Hosted in a cloud environment, this lab is ready for you to begin testing immediately without any setup. Dive in to navigate through the application and uncover potential security challenges designed to enhance your web security skills.

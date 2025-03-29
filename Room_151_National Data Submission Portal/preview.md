@@ -1,0 +1,1 @@
+Welcome to the **National Data Submission Portal Lab**! This cloud-based web application allows you to submit XML data through an intuitive interface. Explore and test how the system processes your XML inputs in a safe environment. Simply navigate to the portal, enter your XML data in the provided form, and observe the results to enhance your security testing skills.

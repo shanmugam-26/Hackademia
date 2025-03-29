@@ -1,0 +1,3 @@
+**Acme Consulting Web Application Lab Preview**
+
+Welcome to the Acme Consulting web application lab! This hands-on exercise allows you to explore a live Python-based Flask application deployed in a secure cloud environment—no setup required. Begin by navigating through the homepage to familiarize yourself with the interface and available features. As you interact with the application, consider examining different routes and functionalities to identify and analyze potential security aspects. Dive in and start testing your skills in a real-world web environment!
